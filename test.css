@@ -1,0 +1,29 @@
+
+body{
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+    margin: 10%;
+    border: 5px solid black;
+    background-color: aqua;
+}
+
+
+
+
+h1{
+    color: blue;
+}
+
+
+h4,h5{
+    color: red;
+}
+
+h5{
+    text-transform: uppercase;
+   
+}
+
+
+
